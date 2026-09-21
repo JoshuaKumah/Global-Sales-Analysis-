@@ -6,7 +6,7 @@ This project analyzes retail sales data across six countries using **SQL and Pow
 
 The project covers the complete analytics workflow from cleaning and consolidating multiple country-level datasets to calculating key financial metrics, answering business questions, and building an interactive sales dashboard.
 
-![Global Sales Dashboard](dashboard/sales-dashboard.png)
+![Global Sales Dashboard](dashboard/dashboardsales-dashboard.png)
 
 The countries included in the analysis are:
 
